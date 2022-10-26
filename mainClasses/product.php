@@ -1,6 +1,6 @@
 <?php
 
-    class Products {
+    class Product {
         ///////////////////////////////////////////////////////////////////////////////////////////////// GENERIC ATTRIBUTE
         //Attributi Generici(necessari per ogni prodotto) 
         public $price;
@@ -21,3 +21,5 @@
     }
 
 ?>
+
+
